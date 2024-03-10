@@ -86,17 +86,18 @@ function App(props) {
       <footer>
         <p>
           This project was coded by{" "}
-          <a href="https://github.com/faridahfaizul" target="_blank">
+          <a href="https://github.com/faridahfaizul" target="_blank" rel="noreferrer">
             Faridah Faizul
           </a>{" "}
           and is{" "}
-          <a href="https://github.com/faridahfaizul/shecodes-react-week4-homework" target="_blank">
+          <a href="https://github.com/faridahfaizul/shecodes-react-week4-homework" target="_blank" rel="noreferrer">
             on GitHub
           </a>{" "}
           and{" "}
           <a
             href="https://weatherapp-faridahfaizul.netlify.app"
             target="_blank"
+            rel="noreferrer"
           >
             hosted on Netlify
           </a>
