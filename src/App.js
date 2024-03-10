@@ -90,7 +90,7 @@ function App(props) {
             Faridah Faizul
           </a>{" "}
           and is{" "}
-          <a href="https://github.com/faridahfaizul/weatherapp" target="_blank">
+          <a href="https://github.com/faridahfaizul/shecodes-react-week4-homework" target="_blank">
             on GitHub
           </a>{" "}
           and{" "}
